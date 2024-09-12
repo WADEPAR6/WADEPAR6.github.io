@@ -1,6 +1,6 @@
 "use client"
 
-import React, { Suspense } from 'react';
+import React from 'react';
 import foto from '@/app/fonts/images/foto.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faUser, faPhone, faCalendar, faAddressBook } from '@fortawesome/free-solid-svg-icons';
@@ -27,7 +27,7 @@ function Principal({ dictionary }: PrincipalProps) {
     };
     return (
         <div id='Principal' className='flex w-full'>
-            <div id='personalInformation' className='flex w-1/4 bg-neutral-800 rounded-xl px-4 py-12 mr-5 items-center mb-8'>
+            <div id='personalInformation' className='flex w-1/4 bg-neutral-800 rounded-xl px-4 py-12 mr-5 items-center mb-'>
                 <div className='flex flex-col items-center justify-center'>
                     {/* IMAGEN Y NOMBRE */}
                     <div className='flex flex-col justify-center items-center'>
