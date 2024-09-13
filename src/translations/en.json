@@ -1,25 +1,94 @@
 {
-    "aboutMe": "About Me",
-    "personalNumber": "Personal Number",
-    "institutionalEmail": "Institutional Email",
-    "personalEmail": "Personal Email",
-    "download" : "Download PDF",
-    "portafolio" : "Portafolio",
-    "experience" : "Experience",
-    "curses" : "Curses",
-    "general" : "General",
-    "proyects" : "Proyects",
-    "contacts" : "Contacts",
-    "skills" : "Skills",
-    "languages" : "Languages",
-    "frameworks" : "Frameworks",
-    "tools" : "Tools",
-    "databases" : "Databases",
-    "operatingSystems" : "Operating Systems",
-    "certifications" : "Certifications",
-    "education" : "Education",
-    "workExperience" : "Work Experience",
-    "personalInformation" : "Personal Information",
-    "birthdate" : "Birthdate",
-    "address" : "Address"
+  "general": {
+    "title": "General Information",
+    "description": "I am a software developer with experience in web and mobile application development. I am passionate about technology and programming. I like to learn new things and face challenges. I am a proactive, responsible, and committed person.",
+    "skills": {
+      "nameSkill": "Skills",
+      "description": "Professional and technical skills.",
+      "items": {
+        "innovator": "Innovator",
+        "teamPlayer": "Team Player",
+        "problemSolver": "Problem Solver",
+        "fastLearner": "Fast Learner",
+        "responsible": "Responsible",
+        "committed": "Committed",
+        "proactive": "Proactive",
+        "creative": "Creative",
+        "analytical": "Analytical",
+        "detailOriented": "Detail Oriented",
+        "adaptable": "Adaptable",
+        "communicative": "Communicative",
+        "collaborative": "Collaborative",
+        "leadership": "Leadership",
+        "empathetic": "Empathetic",
+        "patient": "Patient",
+        "tolerant": "Tolerant",
+        "respectful": "Respectful",
+        "honest": "Honest",
+        "ethical": "Ethical",
+        "professional": "Professional",
+        "punctual": "Punctual",
+        "organized": "Organized",
+        "efficient": "Efficient"
+      }
+    }
+  },
+  "educationTitle": "Education",
+  "educationItems": {
+    "degree": "Bachelor of Computer Science",
+    "institution": "University of XYZ",
+    "period": "2015 - 2019"
+  },
+  "nameLanguage": "Languages",
+  "descriptionLanguage": "Languages spoken or written.",
+  "languas": {
+    "spanish": {
+      "nameSpanish": "Spanish",
+      "descriptionSpanish": "Native Language",
+      "percentageSpanish": 100
+    },
+    "english": {
+      "nameEnglish": "English",
+      "descriptionEnglish": "Second Language",
+      "percentageEnglish": 90
+    },
+    "arabic": {
+      "nameArabic": "Arabic",
+      "descriptionArabic": "Third Language",
+      "percentageArabic": 60
+    }
+  },
+  "workExperienceTitle": "Work Experience",
+  "workExperienceFirst": {
+    "role": "Software Developer",
+    "company": "Tech Corp",
+    "period": "2020 - Present",
+    "description": "Developing web and mobile applications."
+  },
+  "workExperienceSecond": {
+    "role": "Software Developer",
+    "company": "Tech Corp",
+    "period": "2019 - 2020",
+    "description": "Developing web applications."
+  },
+  "workExperienceNull" : "No work experience",
+  "socialNetworks": "Social Networks",
+  "aboutMe": "About Me",
+  "personalNumber": "Personal Number",
+  "institutionalEmail": "Institutional Email",
+  "personalEmail": "Personal Email",
+  "download": "Download PDF",
+  "portafolio": "Portafolio",
+  "experience": "Experience",
+  "curses": "Courses",
+  "proyects": "Projects",
+  "contacts": "Contacts",
+  "frameworks": "Frameworks",
+  "tools": "Tools",
+  "databases": "Databases",
+  "operatingSystems": "Operating Systems",
+  "certifications": "Certifications",
+  "personalInformation": "Personal Information",
+  "birthdate": "Birthdate",
+  "address": "Address"
 }

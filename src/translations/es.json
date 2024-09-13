@@ -1,25 +1,95 @@
 {
-    "aboutMe": "Sobre Mí",
-    "personalNumber": "Número Personal",
-    "institutionalEmail": "Correo Institucional",
-    "personalEmail": "Correo Personal",
-    "download" : "Descargar PDF",
-    "portafolio" : "Portafolio",
-    "experience" : "Experiencia",
-    "curses" : "Cursos",
-    "general" : "General",
-    "proyects" : "Proyectos",
-    "contacts" : "Contactos",
-    "skills" : "Habilidades",
-    "languages" : "Idiomas",
-    "frameworks" : "Frameworks",
-    "tools" : "Herramientas",
-    "databases" : "Bases de Datos",
-    "operatingSystems" : "Sistemas Operativos",
-    "certifications" : "Certificaciones",
-    "education" : "Educación",
-    "workExperience" : "Experiencia Laboral",
-    "personalInformation" : "Información Personal",
-    "birthdate" : "Fecha de Nacimiento",
-    "address" : "Dirección"
+  "general": {
+    "title": "Informacion General",
+    "name": "General",
+    "description": "Soy un desarrollador de software con experiencia en el desarrollo de aplicaciones web y móviles. Me apasiona la tecnología y la programación. Me gusta aprender cosas nuevas y enfrentar desafíos. Soy una persona proactiva, responsable y comprometida con mi trabajo.",
+    "skills": {
+      "nameSkill": "Habilidades",
+      "description": "Habilidades profesionales y técnicas.",
+      "items": {
+        "innovator": "Innovador",
+        "teamPlayer": "Jugador de Equipo",
+        "problemSolver": "Solucionador de Problemas",
+        "fastLearner": "Aprendiz Rápido",
+        "responsible": "Responsable",
+        "committed": "Comprometido",
+        "proactive": "Proactivo",
+        "creative": "Creativo",
+        "analytical": "Analítico",
+        "detailOriented": "Orientado a Detalles",
+        "adaptable": "Adaptable",
+        "communicative": "Comunicativo",
+        "collaborative": "Colaborativo",
+        "leadership": "Liderazgo",
+        "empathetic": "Empático",
+        "patient": "Paciente",
+        "tolerant": "Tolerante",
+        "respectful": "Respetuoso",
+        "honest": "Honesto",
+        "ethical": "Ético",
+        "professional": "Profesional",
+        "punctual": "Puntual",
+        "organized": "Organizado",
+        "efficient": "Eficiente"
+      }
+    }
+  },
+  "educationTitle": "Educación",
+  "educationItems": {
+    "degree": "Bachelor of Computer Science",
+    "institution": "University of XYZ",
+    "period": "2015 - 2019"
+  },
+  "languas": {
+    "spanish": {
+      "nameSpanish": "Español",
+      "descriptionSpanish": "Lengua Materna",
+      "percentageSpanish": 100
+    },
+    "english": {
+      "nameEnglish": "Inglés",
+      "descriptionEnglish": "Segundo Idioma",
+      "percentageEnglish": 90
+    },
+    "arabic": {
+      "nameArabic": "Árabe",
+      "descriptionArabic": "Tercer Idioma",
+      "percentageArabic": 60
+    }
+  },
+  "workExperienceTitle": "Experiencia Laboral",
+  "workExperienceFirst": {
+    "role": "Desarrollador de Software",
+    "company": "Tech Corp",
+    "period": "2020 - Present",
+    "description": "Developing web and mobile applications."
+  },
+  "workExperienceSecond": {
+    "role": "Desarrollador de Software",
+    "company": "Tech Corp",
+    "period": "2020 - Present",
+    "description": "Developing web and mobile applications."
+  },
+  "workExperienceNull" : "No hay experiencia laboral",
+  "nameLanguage": "Languajes",
+  "descriptionLanguage": "Lenguas e Idiomas hablados o escritos.",
+  "socialNetworks": "Redes Sociales",
+  "aboutMe": "Sobre Mí",
+  "personalNumber": "Número Personal",
+  "institutionalEmail": "Correo Institucional",
+  "personalEmail": "Correo Personal",
+  "download": "Descargar PDF",
+  "portafolio": "Portafolio",
+  "experience": "Experiencia",
+  "curses": "Cursos",
+  "proyects": "Proyectos",
+  "contacts": "Contactos",
+  "frameworks": "Frameworks",
+  "tools": "Herramientas",
+  "databases": "Bases de Datos",
+  "operatingSystems": "Sistemas Operativos",
+  "certifications": "Certificaciones",
+  "personalInformation": "Información Personal",
+  "birthdate": "Fecha de Nacimiento",
+  "address": "Dirección"
 }

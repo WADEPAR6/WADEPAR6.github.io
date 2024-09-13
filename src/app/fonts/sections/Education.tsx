@@ -4,7 +4,7 @@ import PrincipalProps from '@/app/fonts/types/PrincipalProps';
 function Education({ dictionary }: PrincipalProps) {
   return (
     <div>
-      <h1>{dictionary.education}</h1>
+      <h1>{dictionary.educationTitle}</h1>
     </div>
   );
 }
