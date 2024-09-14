@@ -41,23 +41,28 @@
   },
   "nameLanguage": "Languages",
   "descriptionLanguage": "Languages spoken or written.",
-  "languas": {
-    "spanish": {
-      "nameSpanish": "Spanish",
-      "descriptionSpanish": "Native Language",
-      "percentageSpanish": 100
+  "languas": [
+    {
+      "key": 1,
+      "nameIdiom": "Spanish",
+      "descriptionIdiom": "Native Language",
+      "percentage": 95
     },
-    "english": {
-      "nameEnglish": "English",
-      "descriptionEnglish": "Second Language",
-      "percentageEnglish": 90
+    {
+      "key": 2,
+      "nameIdiom": "English",
+      "descriptionIdiom": "Second Language",
+      "percentage": 90
     },
-    "arabic": {
-      "nameArabic": "Arabic",
-      "descriptionArabic": "Third Language",
-      "percentageArabic": 60
+    {
+      "key": 3,
+      "nameIdiom": "Arabic",
+      "descriptionIdiom": "Third Language",
+      "percentage": 60
     }
-  },
+  ],
+  "languagesNull": "No languages",
+  "languagesLevel": "Estimated Level",
   "workExperienceTitle": "Work Experience",
   "workExperienceFirst": {
     "role": "Software Developer",

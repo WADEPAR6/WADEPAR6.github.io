@@ -41,23 +41,28 @@
     "institution": "جامعة XYZ",
     "period": "2015 - 2019"
   },
-  "languas": {
-    "spanish": {
-      "nameSpanish": "الإسبانية",
-      "descriptionSpanish": "اللغة الأم",
-      "percentageSpanish": 100
+  "languas": [
+    {
+      "key": 1,
+      "nameIdiom": "الإسبانية",
+      "descriptionIdiom": "اللغة الأم",
+      "percentage": 95
     },
-    "english": {
-      "nameEnglish": "الإنجليزية",
-      "descriptionEnglish": "اللغة الثانية",
-      "percentageEnglish": 90
+    {
+      "key": 2,
+      "nameIdiom": "الإنجليزية",
+      "descriptionIdiom": "اللغة الثانية",
+      "percentage": 90
     },
-    "arabic": {
-      "nameArabic": "العربية",
-      "descriptionArabic": "اللغة الثالثة",
-      "percentageArabic": 60
+    {
+      "key": 3,
+      "nameIdiom": "العربية",
+      "descriptionIdiom": "اللغة الثالثة",
+      "percentage": 60
     }
-  },
+  ],
+  "languaesNull": "لا توجد لغات",
+  "languagesLevel": "المستوى المقدر",
   "workExperienceTitle": "الخبرة العملية",
   "workExperienceFirst": {
     "role": "مطور برامج",

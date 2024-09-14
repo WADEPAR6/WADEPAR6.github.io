@@ -42,23 +42,14 @@ interface PrincipalProps {
         };
         nameLanguage?: string;
         descriptionLanguage?: string;
-        languas: {
-            spanish: {
-                nameSpanish: string;
-                descriptionSpanish: string;
-                percentageSpanish: number;
-            };
-            english: {
-                nameEnglish: string;
-                descriptionEnglish: string;
-                percentageEnglish: number;
-            };
-            arabic: {
-                nameArabic: string;
-                descriptionArabic: string;
-                percentageArabic: number;
-            };
-        };
+        languas: Array<{
+            key: number;
+            nameIdiom: string;
+            descriptionIdiom: string;
+            percentage: number;
+        }>;
+        languagesLevel?: string;
+        languagesNull?: string;
         workExperienceTitle: string;
         workExperienceFirst?: {
             role?: string;
