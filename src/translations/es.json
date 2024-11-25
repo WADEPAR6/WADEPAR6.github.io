@@ -63,19 +63,20 @@
   "languagesNull": "No hay idiomas",
   "languagesLevel": "Nivel Estimado",
   "workExperienceTitle": "Experiencia Laboral",
-  "workExperienceItems": {
-    "position": "Desarrollador de Software",
-    "company": "Empresa XYZ",
-    "period": "2019 - Presente",
-    "description": "Desarrollo de aplicaciones web y móviles."
-  },
+  "workExperienceItems": [
+    {
+      "position": "Desarrollador de Software",
+      "company": "Empresa XYZ",
+      "period": "2019 - Presente",
+      "description": "Desarrollo de aplicaciones web y móviles."
+    }
+  ],
   "workExperienceNull": "No hay experiencia laboral",
   "experienceDescription": "Experiencia en desarrollo de aplicaciones web y móviles.",
   "nameLanguage": "Languajes",
   "descriptionLanguage": "Lenguas e Idiomas hablados o escritos.",
   "socialNetworkTitle": "Redes Sociales",
-  "socialNetworks": 
-  [
+  "socialNetworks": [
     {
       "key": 1,
       "name": "LinkedIn",
@@ -118,7 +119,7 @@
     },
     {
       "key": 3,
-      "name" : "Sistema de Reporteador de Bases de Datpos",
+      "name": "Sistema de Reporteador de Bases de Datpos",
       "description": "Sistema de reporteador de bases de datos desarrollado con NestJS",
       "period": "2023",
       "url": "https://github.com/Davayme/reporter",

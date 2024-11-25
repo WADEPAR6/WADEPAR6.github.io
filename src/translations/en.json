@@ -64,12 +64,14 @@
   "languagesNull": "No languages",
   "languagesLevel": "Estimated Level",
   "workExperienceTitle": "Work Experience",
-  "workExperienceItems": {
-    "position": "Software Developer",
-    "company": "Company XYZ",
-    "period": "2019 - 2021",
-    "description": "Development of web and mobile applications."
-  },
+  "workExperienceItems": [
+    {
+      "position": "Software Developer",
+      "company": "Company XYZ",
+      "period": "2019 - 2021",
+      "description": "Development of web and mobile applications."
+    }
+  ],
   "workExperienceNull": "No work experience",
   "experienceDescription": "Experience in development of web and mobile applications.",
   "socialNertworkTitle": "Social Networks",
@@ -107,7 +109,7 @@
       "image": "@/app/fonts/images/proyects/wareHouseManagement.jpg"
     },
     {
-      "key" : 2,
+      "key": 2,
       "name": "Sales Management System",
       "description": "Sales management system developed with Java and MySQL.",
       "period": "2023",
@@ -115,8 +117,8 @@
       "image": "@/app/fonts/images/proyects/salesManagement.jpg"
     },
     {
-      "key" : 3,
-      "name" : "Database Reporter System",
+      "key": 3,
+      "name": "Database Reporter System",
       "description": "Database reporter system developed with NestJS.",
       "period": "2023",
       "url": "https://github.com/Davayme/reporter",
