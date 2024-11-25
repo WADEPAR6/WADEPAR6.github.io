@@ -66,6 +66,7 @@
   "workExperienceTitle": "Work Experience",
   "workExperienceItems": [
     {
+      "key": 1,
       "position": "Software Developer",
       "company": "Company XYZ",
       "period": "2019 - 2021",

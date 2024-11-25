@@ -65,6 +65,7 @@
   "workExperienceTitle": "Experiencia Laboral",
   "workExperienceItems": [
     {
+      "key" : 1,
       "position": "Desarrollador de Software",
       "company": "Empresa XYZ",
       "period": "2019 - Presente",
