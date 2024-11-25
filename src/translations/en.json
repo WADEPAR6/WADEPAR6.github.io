@@ -134,11 +134,13 @@
   "operatingSystems": "Operating Systems",
   "certifications": "Certifications",
   "certificationsNull": "No certifications",
-  "certificationsItems": {
-    "name": "Certification in Software Development",
-    "institution": "Institution XYZ",
-    "period": "2020 - 2021"
-  },
+  "certificationsItems": [
+    {
+      "name": "Certification in Software Development",
+      "institution": "Institution XYZ",
+      "period": "2020 - 2021"
+    }
+  ],
   "personalInformation": "Personal Information",
   "birthdate": "Birthdate",
   "address": "Address"

@@ -134,11 +134,13 @@
   "operatingSystems": "أنظمة التشغيل",
   "certifications": "الشهادات",
   "certificationsNull": "لا توجد شهادات",
-  "certificationsItems": {
-    "name": "شهادة في تطوير البرمجيات",
-    "institution": "جامعة XYZ",
-    "period": "2020 - 2021"
-  },
+  "certificationsItems": [
+    {
+      "name": "شهادة في تطوير البرمجيات",
+      "institution": "جامعة XYZ",
+      "period": "2020 - 2021"
+    }
+  ],
   "personalInformation": "المعلومات الشخصية",
   "birthdate": "تاريخ الميلاد",
   "address": "العنوان"

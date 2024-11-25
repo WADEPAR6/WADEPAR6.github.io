@@ -65,7 +65,7 @@
   "workExperienceTitle": "Experiencia Laboral",
   "workExperienceItems": [
     {
-      "key" : 1,
+      "key": 1,
       "position": "Desarrollador de Software",
       "company": "Empresa XYZ",
       "period": "2019 - Presente",
@@ -135,11 +135,13 @@
   "operatingSystems": "Sistemas Operativos",
   "certifications": "Certificaciones",
   "certificationsNull": "No hay certificaciones",
-  "certificationsItems": {
-    "name": "Certificación en Desarrollo de Aplicaciones Web",
-    "institution": "Platzi",
-    "period": "2020"
-  },
+  "certificationsItems": [
+    {
+      "name": "Certificación en Desarrollo de Aplicaciones Web",
+      "institution": "Platzi",
+      "period": "2020"
+    }
+  ],
   "personalInformation": "Información Personal",
   "birthdate": "Fecha de Nacimiento",
   "address": "Dirección"
