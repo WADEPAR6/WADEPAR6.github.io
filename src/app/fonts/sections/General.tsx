@@ -2,6 +2,7 @@ import React from 'react';
 import PrincipalProps from '@/app/fonts/types/PrincipalProps';
 import Skills from '../components/Skills';
 import Languages from '../components/Languages';
+import SocialNetworks from '../components/SocialNetworks';
 
 function General({ dictionary }: PrincipalProps) {
   return (
@@ -10,6 +11,7 @@ function General({ dictionary }: PrincipalProps) {
       <p className='m-5 font-mono text-gray-50'>{dictionary.general.description}</p>
       <Skills dictionary={dictionary}/>
       <Languages dictionary={dictionary}/>
+      <SocialNetworks dictionary={dictionary}/>
     </div>
   );
 }

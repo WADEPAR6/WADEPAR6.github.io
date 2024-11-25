@@ -64,20 +64,29 @@
   "languagesNull": "No languages",
   "languagesLevel": "Estimated Level",
   "workExperienceTitle": "Work Experience",
-  "workExperienceFirst": {
-    "role": "Software Developer",
-    "company": "Tech Corp",
-    "period": "2020 - Present",
-    "description": "Developing web and mobile applications."
+  "workExperienceItems": {
+    "position": "Software Developer",
+    "company": "Company XYZ",
+    "period": "2019 - 2021",
+    "description": "Development of web and mobile applications."
   },
-  "workExperienceSecond": {
-    "role": "Software Developer",
-    "company": "Tech Corp",
-    "period": "2019 - 2020",
-    "description": "Developing web applications."
-  },
-  "workExperienceNull" : "No work experience",
-  "socialNetworks": "Social Networks",
+  "workExperienceNull": "No work experience",
+  "experienceDescription": "Experience in development of web and mobile applications.",
+  "socialNertworkTitle": "Social Networks",
+  "socialNetworks": [
+    {
+      "key": 1,
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kenneth-paredes-015448329/",
+      "icon": "linkedin"
+    },
+    {
+      "key": 2,
+      "name": "GitHub",
+      "url": "https://github.com/WADEPAR6",
+      "icon": "github"
+    }
+  ],
   "aboutMe": "About Me",
   "personalNumber": "Personal Number",
   "institutionalEmail": "Institutional Email",
@@ -87,12 +96,46 @@
   "experience": "Experience",
   "curses": "Courses",
   "proyects": "Projects",
+  "proyectsNull": "No projects",
+  "proyectsItems": [
+    {
+      "key": 1,
+      "name": "Warehouse Management System",
+      "description": "Warehouse management system developed with C# and Postgres.",
+      "period": "2024",
+      "url": "https://example.com",
+      "image": "@/app/fonts/images/proyects/wareHouseManagement.jpg"
+    },
+    {
+      "key" : 2,
+      "name": "Sales Management System",
+      "description": "Sales management system developed with Java and MySQL.",
+      "period": "2023",
+      "url": "https://github.com/Santhiag0/Servicios",
+      "image": "@/app/fonts/images/proyects/salesManagement.jpg"
+    },
+    {
+      "key" : 3,
+      "name" : "Database Reporter System",
+      "description": "Database reporter system developed with NestJS.",
+      "period": "2023",
+      "url": "https://github.com/Davayme/reporter",
+      "image": "@/app/fonts/images/Proyecto-Reporteador.jpg"
+    }
+  ],
+  "repository": "Repository",
   "contacts": "Contacts",
   "frameworks": "Frameworks",
   "tools": "Tools",
   "databases": "Databases",
   "operatingSystems": "Operating Systems",
   "certifications": "Certifications",
+  "certificationsNull": "No certifications",
+  "certificationsItems": {
+    "name": "Certification in Software Development",
+    "institution": "Institution XYZ",
+    "period": "2020 - 2021"
+  },
   "personalInformation": "Personal Information",
   "birthdate": "Birthdate",
   "address": "Address"

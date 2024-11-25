@@ -51,20 +51,21 @@ interface PrincipalProps {
         languagesLevel?: string;
         languagesNull?: string;
         workExperienceTitle: string;
-        workExperienceFirst?: {
-            role?: string;
+        workExperienceItems: Array<{
+            position?: string;
             company?: string;
             period?: string;
             description?: string;
-        };
-        workExperienceSecond?: {
-            role?: string;
-            company?: string;
-            period?: string;
-            description?: string;
-        };
+        }>;
         workExperienceNull?: string;
-        socialNetworks?: string;
+        experienceDescription?: string;
+        socialNetworkTitle?: string;
+        socialNetworks?: Array<{
+            key: number;
+            name?: string;
+            url?: string;
+            icon?: string;
+        }>;
         aboutMe?: string;
         personalNumber?: string;
         institutionalEmail?: string;
@@ -73,12 +74,28 @@ interface PrincipalProps {
         portafolio?: string;
         curses?: string;
         proyects?: string;
+        proyectsNull?: string;
+        proyectsItems?: Array<{
+            key: number;
+            name?: string;
+            description?: string;
+            period?: string;
+            url?: string;
+            image?: string;
+        }>;
+        repository?: string;
         contacts?: string;
         frameworks?: string;
         tools?: string;
         databases?: string;
         operatingSystems?: string;
         certifications?: string;
+        certificationsNull?: string;
+        certificationsItems?: Array<{
+            name?: string;
+            institution?: string;
+            period?: string;
+        }>;
         personalInformation?: string;
         birthdate?: string;
         address?: string;

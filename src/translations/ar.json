@@ -64,20 +64,33 @@
   "languaesNull": "لا توجد لغات",
   "languagesLevel": "المستوى المقدر",
   "workExperienceTitle": "الخبرة العملية",
-  "workExperienceFirst": {
-    "role": "مطور برامج",
-    "company": "شركة تكنولوجيا",
-    "period": "2020 - حتى الآن",
-    "description": "تطوير تطبيقات الويب والهاتف المحمول."
-  },
-  "workExperienceSecond": {
-    "role": "مهندس برمجيات",
-    "company": "شركة تكنولوجيا",
-    "period": "2019 - 2020",
-    "description": "تطوير تطبيقات الويب والهاتف المحمول."
-  },
+  "workExperienceItems": [
+    {
+      "key": 1,
+      "role": "مطور برامج",
+      "company": "شركة تكنولوجيا",
+      "period": "2020 - حتى الآن",
+      "description": "تطوير تطبيقات الويب والهاتف المحمول."
+    }
+  ],
   "workExperienceNull": "لا توجد خبرة عملية",
-  "socialNetworks": "الشبكات الاجتماعية",
+  "experienceDescription": "خبرة في تطوير تطبيقات الويب والهاتف المحمول.",
+  "socialNetworkTitle": "الشبكات الاجتماعية",
+  "socialNetworks": [
+    {
+      "key": 1,
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kenneth-paredes-015448329/",
+      "icon": "linkedin"
+    },
+    {
+      "key": 2,
+      "name": "GitHub",
+      "url": "https://github.com/WADEPAR6",
+      "icon": "github"
+    }
+  ],
+  "الشبكات الاجتماعية",
   "aboutMe": "عني",
   "personalNumber": "الرقم الشخصي",
   "institutionalEmail": "البريد الإلكتروني المؤسسي",
@@ -87,12 +100,46 @@
   "experience": "الخبرات",
   "curses": "الدورات",
   "proyects": "المشاريع",
+  "proyectsNull": "لا توجد مشاريع",
+  "proyectsItems": [
+    {
+      "key": 1,
+      "name": "نظام إدارة المستودع",
+      "description": "نظام إدارة المستودع تم تطويره بلغة C# و Postgres.",
+      "period": "2024",
+      "url": "https://github.com/WADEPAR6/Gestion_Bodega",
+      "image": "@/app/fonts/images/proyects/wareHouseManagement.jpg"
+    },
+    {
+      "key": 2,
+      "name": "نظام إدارة المبيعات",
+      "description": "نظام إدارة المبيعات تم تطويره بلغة Java و MySQL.",
+      "period": "2023",
+      "url": "https://github.com/Santhiag0/Servicios",
+      "image": "@/app/fonts/images/proyects/salesManagement.jpg"
+    },
+    {
+      "key": 3,
+      "name": "نظام تقرير قواعد البيانات",
+      "description": "نظام تقرير قواعد البيانات تم تطويره بلغة NestJS.",
+      "period": "2023",
+      "url": "https://github.com/Davayme/reporter",
+      "image": "@/app/fonts/images/Proyecto-Reporteador.jpg"
+    }
+  ],
+  "repository": "المستودع",
   "contacts": "التواصل",
   "frameworks": "الأطر العملية",
   "tools": "الأدوات",
   "databases": "قواعد البيانات",
   "operatingSystems": "أنظمة التشغيل",
   "certifications": "الشهادات",
+  "certificationsNull": "لا توجد شهادات",
+  "certificationsItems": {
+    "name": "شهادة في تطوير البرمجيات",
+    "institution": "جامعة XYZ",
+    "period": "2020 - 2021"
+  },
   "personalInformation": "المعلومات الشخصية",
   "birthdate": "تاريخ الميلاد",
   "address": "العنوان"

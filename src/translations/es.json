@@ -63,22 +63,32 @@
   "languagesNull": "No hay idiomas",
   "languagesLevel": "Nivel Estimado",
   "workExperienceTitle": "Experiencia Laboral",
-  "workExperienceFirst": {
-    "role": "Desarrollador de Software",
-    "company": "Tech Corp",
-    "period": "2020 - Present",
-    "description": "Developing web and mobile applications."
-  },
-  "workExperienceSecond": {
-    "role": "Desarrollador de Software",
-    "company": "Tech Corp",
-    "period": "2020 - Present",
-    "description": "Developing web and mobile applications."
+  "workExperienceItems": {
+    "position": "Desarrollador de Software",
+    "company": "Empresa XYZ",
+    "period": "2019 - Presente",
+    "description": "Desarrollo de aplicaciones web y móviles."
   },
   "workExperienceNull": "No hay experiencia laboral",
+  "experienceDescription": "Experiencia en desarrollo de aplicaciones web y móviles.",
   "nameLanguage": "Languajes",
   "descriptionLanguage": "Lenguas e Idiomas hablados o escritos.",
-  "socialNetworks": "Redes Sociales",
+  "socialNetworkTitle": "Redes Sociales",
+  "socialNetworks": 
+  [
+    {
+      "key": 1,
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kenneth-paredes-015448329/",
+      "icon": "linkedin"
+    },
+    {
+      "key": 2,
+      "name": "GitHub",
+      "url": "https://github.com/WADEPAR6",
+      "icon": "github"
+    }
+  ],
   "aboutMe": "Sobre Mí",
   "personalNumber": "Número Personal",
   "institutionalEmail": "Correo Institucional",
@@ -88,12 +98,46 @@
   "experience": "Experiencia",
   "curses": "Cursos",
   "proyects": "Proyectos",
+  "proyectsNull": "No hay proyectos",
+  "proyectsItems": [
+    {
+      "key": 1,
+      "name": "Sistema de Gestión de Bodega",
+      "description": "Sistema de gestión de bodega desarrollado con C# y Postgres.",
+      "period": "2024",
+      "url": "https://github.com/WADEPAR6/Gestion_Bodega",
+      "image": "@/app/fonts/images/proyects/wareHouseManagement.jpg"
+    },
+    {
+      "key": 2,
+      "name": "Sistema de Gestión de Ventas",
+      "description": "Sistema de gestión de ventas desarrollado con Java y MySQL.",
+      "period": "2023",
+      "url": "https://github.com/Santhiag0/Servicios",
+      "image": "@/app/fonts/images/Proyecto-Ventas.jpg"
+    },
+    {
+      "key": 3,
+      "name" : "Sistema de Reporteador de Bases de Datpos",
+      "description": "Sistema de reporteador de bases de datos desarrollado con NestJS",
+      "period": "2023",
+      "url": "https://github.com/Davayme/reporter",
+      "image": "@/app/fonts/images/Proyecto-Reporteador.jpg"
+    }
+  ],
+  "repository": "Repositorio",
   "contacts": "Contactos",
   "frameworks": "Frameworks",
   "tools": "Herramientas",
   "databases": "Bases de Datos",
   "operatingSystems": "Sistemas Operativos",
   "certifications": "Certificaciones",
+  "certificationsNull": "No hay certificaciones",
+  "certificationsItems": {
+    "name": "Certificación en Desarrollo de Aplicaciones Web",
+    "institution": "Platzi",
+    "period": "2020"
+  },
   "personalInformation": "Información Personal",
   "birthdate": "Fecha de Nacimiento",
   "address": "Dirección"
