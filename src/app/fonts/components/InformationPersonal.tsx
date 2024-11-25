@@ -1,6 +1,6 @@
 import React from 'react';
 import PrincipalProps from '@/app/fonts/types/PrincipalProps';
-import foto from '@/app/fonts/images/foto.jpg';
+import foto from '@/app/fonts/images/FotoPerfil.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faUser, faPhone, faCalendar, faAddressBook } from '@fortawesome/free-solid-svg-icons';
 
