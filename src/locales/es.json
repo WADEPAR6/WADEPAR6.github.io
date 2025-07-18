@@ -1,0 +1,138 @@
+{
+  "general": {
+    "title": "Información General",
+    "description": "Soy un desarrollador de software en formación con experiencia práctica en el desarrollo de aplicaciones web y móviles. Me especializo en programación, lógica computacional y enseñanza personalizada. Me apasiona la tecnología y disfruto compartir el conocimiento con estudiantes de todos los niveles, desde secundaria hasta universidad. Busco oportunidades para desempeñarme como docente de tecnología, informática o programación, aportando mi experiencia en proyectos reales y mi vocación como educador.",
+    "skills": {
+      "nameSkill": "Habilidades Técnicas y Blandas",
+      "description": "Principales habilidades técnicas y personales adquiridas en mi formación y experiencia.",
+      "items": {
+        "programming": "Programación (Java, Javascript, Python, etc)",
+        "databases": "Manejo de Bases de Datos (MySQL, PostgreSQL)",
+        "webDesign": "Diseño Web (HTML, CSS, etc)",
+        "english": "Inglés Avanzado",
+        "webTech": "Tecnologías Web Modernas",
+        "office": "Ofimática Avanzada",
+        "dataAnalysis": "Análisis de Datos",
+        "problemSolving": "Resolución de Problemas Técnicos",
+        "cybersecurity": "Ciberseguridad y Hacking Ético",
+        "communication": "Comunicación Efectiva",
+        "patience": "Paciencia y Empatía",
+        "leadership": "Liderazgo y Proactividad",
+        "attention": "Atención al Detalle",
+        "teamwork": "Trabajo en Equipo",
+        "criticalThinking": "Pensamiento Crítico",
+        "timeManagement": "Gestión del Tiempo",
+        "adaptability": "Adaptabilidad",
+        "creativity": "Creatividad"
+      }
+    }
+  },
+  "educationTitle": "Educación",
+  "educationDescription": "Formación académica universitaria y secundaria, con enfoque en desarrollo de software, pensamiento crítico y trabajo en equipo.",
+  "educationItems": [
+    {
+      "degree": "Ingeniería en Software",
+      "institution": "Universidad Técnica de Ambato",
+      "period": "2021 - 2025",
+      "details": [
+        "Formación en desarrollo de aplicaciones y sistemas modernos adaptados a las necesidades reales de usuarios y organizaciones.",
+        "Trabajo colaborativo en equipos con enfoque en metodologías ágiles y buenas prácticas de desarrollo.",
+        "Participación activa en proyectos académicos enfocados en resolver problemas mediante soluciones digitales creativas.",
+        "Desarrollo de pensamiento crítico y habilidades analíticas para la toma de decisiones en entornos tecnológicos."
+      ]
+    },
+    {
+      "degree": "Bachiller en Ciencias de la República del Ecuador",
+      "institution": "Unidad Educativa Juan León Mera 'La Salle'",
+      "period": "2007 - 2020",
+      "details": [
+        "Nota de grado: 9/10."
+      ]
+    }
+  ],
+  "certificationsTitle": "Certificados",
+  "certificationsItems": [
+    {
+      "name": "Lengua de Señas Ecuatoriana",
+      "institution": "PSICORP - Corporación Ecuatoriana de Psicología",
+      "period": "2025",
+      "description": "Certificado de finalización del curso de Lengua de Señas Ecuatoriana.",
+      "file": "/docs/certificates/LENGUA%20DE%20SE%C3%91AS%20ECUATORIANA%20-%20Kenneth%20Ra%C3%BAl%20Paredes%20Rivera.pdf"
+    }
+  ],
+  "certificationsDescription": "Certificados y logros obtenidos durante mi formación profesional.",
+  "viewCertificate": "Ver certificado",
+  "languas": [
+    { "key": 1, "nameIdiom": "Español", "descriptionIdiom": "Lengua materna", "percentage": 95 },
+    { "key": 2, "nameIdiom": "Inglés", "descriptionIdiom": "Avanzado", "percentage": 85 },
+    { "key": 3, "nameIdiom": "Arabe", "descriptionIdiom": "Básico", "percentage": 35 }
+  ],
+  "nameLanguage": "Idiomas",
+  "descriptionLanguage": "Idiomas que hablo y mi nivel estimado de dominio.",
+  "languagesNull": "No hay idiomas",
+  "languagesLevel": "Nivel Estimado",
+  "workExperienceTitle": "Experiencia Laboral",
+  "workExperienceItems": [
+    {
+      "key": 1,
+      "position": "Tutor Particular (Freelance)",
+      "company": "Independiente",
+      "period": "2022 - Actualidad",
+      "description": "Tutorías personalizadas para estudiantes de secundaria y universidad en matemáticas, física, química, programación básica y lógica de programación. Desarrollo de materiales didácticos y ejercicios prácticos. Enfoque en aprendizaje activo y pensamiento computacional."
+    },
+    {
+      "key": 2,
+      "position": "Desarrollador Junior",
+      "company": "Aplicación para gestión de restaurante",
+      "period": "2022 - 2023",
+      "description": "Desarrollo de app multiplataforma con Flutter y Firebase para mejorar el flujo de pedidos entre salón y cocina. Participación en funciones clave de interfaz y comunicación en tiempo real."
+    },
+    {
+      "key": 3,
+      "position": "Desarrollador Principal",
+      "company": "Plataforma turística de reservas",
+      "period": "2023 - 2024",
+      "description": "Lideré el desarrollo de un sistema web para visualizar destinos turísticos y conectar con asesores mediante WhatsApp API. Implementación de flujo de compra y contacto directo."
+    },
+    {
+      "key": 4,
+      "position": "Gestor de Proyecto",
+      "company": "Red social con enfoque humanitario",
+      "period": "2024 - 2025",
+      "description": "Coordinación de equipo y diseño funcional de una app para compartir información de personas desaparecidas y apoyo comunitario."
+    },
+    {
+      "key": 5,
+      "position": "Líder del área visual e interactiva",
+      "company": "Sistema GITT – Universidad Técnica de Ambato",
+      "period": "2025 - Actualidad",
+      "description": "Encabezo el diseño y funcionamiento de la parte visual de una solución digital para gestión de inventarios y préstamos académicos. Coordinación de equipo, diseño funcional y experiencia de usuario."
+    }
+  ],
+  "workExperienceNull": "No hay experiencia laboral",
+  "experienceDescription": "Experiencia práctica en desarrollo de software, tutorías, liderazgo de proyectos y trabajo en equipo.",
+  "socialNetworkTitle": "Redes Sociales",
+  "socialNetworks": [
+    { "key": 1, "name": "LinkedIn", "url": "https://www.linkedin.com/in/kenneth-paredes-015448329/", "icon": "linkedin" },
+    { "key": 2, "name": "GitHub", "url": "https://github.com/WADEPAR6", "icon": "github" }
+  ],
+  "aboutMe": "Sobre Mí",
+  "personalNumber": "0963307063",
+  "institutionalEmail": "kparedes9203@uta.edu.ec",
+  "personalEmail": "raulparedes20031221@gmail.com",
+  "download": "Descargar PDF",
+  "portafolio": "Portafolio",
+  "contacts": "Contactos",
+  "contactsDescription": "Información de contacto principal: ciudad, teléfono, correo y LinkedIn para consultas profesionales o académicas.",
+  "address": "Ambato, Ecuador",
+  "birthdate": "21/12/2003",
+  "fullName": "Kenneth Paredes",
+  "nameLabel": "Nombres y Apellidos",
+  "firstName": "Kenneth Raul",
+  "lastName": "Paredes Rivera",
+  "emailLabel": "Correo Electrónico",
+  "phoneLabel": "Número de Teléfono",
+  "birthdateLabel": "Fecha de Nacimiento",
+  "addressLabel": "Dirección"
+}
+  

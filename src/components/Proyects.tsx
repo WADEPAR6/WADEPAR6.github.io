@@ -1,10 +1,11 @@
 "use client";
 
 import React from 'react';
-import PrincipalProps from '@/app/fonts/types/PrincipalProps';
+import Image from 'next/image';
+import { Dictionary, Proyect } from '../app/types/Dictionary';
 
-function Proyects({ dictionary }: PrincipalProps) {
-    const proyectsItems = dictionary.proyectsItems;
+export default function Proyects({ dictionary }: { dictionary: Dictionary }) {
+    const proyectsItems = dictionary.proyectsItems as Proyect[];
 
     return (
         <div className='w-80% bg-slate-800 rounded-lg my-6 p-5'>
@@ -13,7 +14,7 @@ function Proyects({ dictionary }: PrincipalProps) {
             <div className='grid grid-cols-3 gap-4 h-80 overflow-y-auto scrollbar-custom p-2'>
                 {proyectsItems?.map((proyect) => (
                     <div key={proyect.key} className='relative bg-slate-700 rounded-lg overflow-hidden'>
-                        <img src={proyect.image} alt={proyect.name} className='w-full h-full object-cover opacity-70' />
+                        <Image src={proyect.image.replace('@/app', '/src/app')} alt={proyect.name} width={300} height={200} className='w-full h-full object-cover opacity-70' />
                         <div className='absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-2'>
                             <h2 className='font-bold text-xl text-white'>{proyect.name}</h2>
                             <p className='text-sm text-gray-300'>{proyect.period}</p>
@@ -25,5 +26,3 @@ function Proyects({ dictionary }: PrincipalProps) {
         </div>
     );
 }
-
-export default Proyects;

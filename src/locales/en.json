@@ -1,0 +1,138 @@
+{
+  "general": {
+    "title": "General Information",
+    "description": "I am a software developer in training with hands-on experience in web and mobile application development. I specialize in programming, computational logic, and personalized teaching. I am passionate about technology and enjoy sharing knowledge with students of all levels, from high school to university. I am seeking opportunities to work as a technology, computer science, or programming teacher, contributing my real-world project experience and vocation as an educator.",
+    "skills": {
+      "nameSkill": "Technical and Soft Skills",
+      "description": "Main technical and personal skills acquired through my training and experience.",
+      "items": {
+        "programming": "Programming (Java, Javascript, Python, etc)",
+        "databases": "Database Management (MySQL, PostgreSQL)",
+        "webDesign": "Web Design (HTML, CSS, etc)",
+        "english": "Advanced English",
+        "webTech": "Modern Web Technologies",
+        "office": "Advanced Office Suite",
+        "dataAnalysis": "Data Analysis",
+        "problemSolving": "Technical Problem Solving",
+        "cybersecurity": "Cybersecurity and Ethical Hacking",
+        "communication": "Effective Communication",
+        "patience": "Patience and Empathy",
+        "leadership": "Leadership and Proactivity",
+        "attention": "Attention to Detail",
+        "teamwork": "Teamwork",
+        "criticalThinking": "Critical Thinking",
+        "timeManagement": "Time Management",
+        "adaptability": "Adaptability",
+        "creativity": "Creativity"
+      }
+    }
+  },
+  "educationTitle": "Education",
+  "educationDescription": "University and high school academic background, focused on software development, critical thinking, and teamwork.",
+  "educationItems": [
+    {
+      "degree": "Software Engineering",
+      "institution": "Technical University of Ambato",
+      "period": "2021 - 2025",
+      "details": [
+        "Training in the development of modern applications and systems tailored to real user and organizational needs.",
+        "Collaborative teamwork with a focus on agile methodologies and best development practices.",
+        "Active participation in academic projects focused on solving problems through creative digital solutions.",
+        "Development of critical thinking and analytical skills for decision-making in technological environments."
+      ]
+    },
+    {
+      "degree": "High School Diploma in Sciences",
+      "institution": "Juan León Mera 'La Salle' Educational Unit",
+      "period": "2007 - 2020",
+      "details": [
+        "Graduation grade: 9/10."
+      ]
+    }
+  ],
+  "certificationsTitle": "Certifications",
+  "certificationsItems": [
+    {
+      "name": "Ecuadorian Sign Language",
+      "institution": "PSICORP - Ecuadorian Corporation of Psychology",
+      "period": "2025",
+      "description": "Certificate of completion of the Ecuadorian Sign Language course.",
+      "file": "/docs/certificates/LENGUA%20DE%20SE%C3%91AS%20ECUATORIANA%20-%20Kenneth%20Ra%C3%BAl%20Paredes%20Rivera.pdf"
+    }
+  ],
+  "viewCertificate": "View certificate",
+  "certificationsDescription": "Certificates and achievements obtained during my professional training.",
+  "nameLanguage": "Languages",
+  "descriptionLanguage": "Languages I speak and my estimated proficiency level.",
+  "languas": [
+    { "key": 1, "nameIdiom": "Spanish", "descriptionIdiom": "Native language", "percentage": 95 },
+    { "key": 2, "nameIdiom": "English", "descriptionIdiom": "Advanced", "percentage": 85 },
+    { "key": 3, "nameIdiom": "Arabic", "descriptionIdiom": "Basic", "percentage": 35 }
+  ],
+  "languagesNull": "No languages",
+  "languagesLevel": "Estimated Level",
+  "workExperienceTitle": "Work Experience",
+  "workExperienceItems": [
+    {
+      "key": 1,
+      "position": "Private Tutor (Freelance)",
+      "company": "Self-employed",
+      "period": "2022 - Present",
+      "description": "Personalized tutoring for high school and university students in mathematics, physics, chemistry, basic programming, and logic. Development of teaching materials and practical exercises. Focus on active learning and computational thinking."
+    },
+    {
+      "key": 2,
+      "position": "Junior Developer",
+      "company": "Restaurant Management App",
+      "period": "2022 - 2023",
+      "description": "Development of a cross-platform app with Flutter and Firebase to improve order flow between dining room and kitchen. Participation in key interface and real-time communication features."
+    },
+    {
+      "key": 3,
+      "position": "Lead Developer",
+      "company": "Tourism Booking Platform",
+      "period": "2023 - 2024",
+      "description": "Led the development of a web system to view tourist destinations and connect with advisors via WhatsApp API. Implementation of purchase flow and direct contact."
+    },
+    {
+      "key": 4,
+      "position": "Project Manager",
+      "company": "Humanitarian Social Network",
+      "period": "2024 - 2025",
+      "description": "Team coordination and functional design of an app to share information about missing persons and community support."
+    },
+    {
+      "key": 5,
+      "position": "Visual and Interactive Area Leader",
+      "company": "GITT System – Technical University of Ambato",
+      "period": "2025 - Present",
+      "description": "Lead the design and operation of the visual part of a digital solution for academic inventory and loan management. Team coordination, functional design, and user experience."
+    }
+  ],
+  "workExperienceNull": "No work experience",
+  "experienceDescription": "Practical experience in software development, tutoring, project leadership, and teamwork.",
+  "socialNetworkTitle": "Social Networks",
+  "socialNetworks": [
+    { "key": 1, "name": "LinkedIn", "url": "https://www.linkedin.com/in/kenneth-paredes-015448329/", "icon": "linkedin" },
+    { "key": 2, "name": "GitHub", "url": "https://github.com/WADEPAR6", "icon": "github" }
+  ],
+  "aboutMe": "About Me",
+  "personalNumber": "0963307063",
+  "institutionalEmail": "kparedes9203@uta.edu.ec",
+  "personalEmail": "raulparedes20031221@gmail.com",
+  "download": "Download PDF",
+  "portafolio": "Portfolio",
+  "contacts": "Contacts",
+  "contactsDescription": "Main contact information: city, phone, email, and LinkedIn for professional or academic inquiries.",
+  "address": "Ambato, Ecuador",
+  "birthdate": "21/12/2003",
+  "fullName": "Kenneth Paredes",
+  "nameLabel": "Full Name",
+  "firstName": "Kenneth Raul",
+  "lastName": "Paredes Rivera",
+  "emailLabel": "Email",
+  "phoneLabel": "Phone Number",
+  "birthdateLabel": "Birthdate",
+  "addressLabel": "Address"
+}
+  

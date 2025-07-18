@@ -1,0 +1,1 @@
+// Middleware eliminado: no se usa next-intl ni lógica de rutas por idioma. 
