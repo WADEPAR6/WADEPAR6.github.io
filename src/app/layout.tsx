@@ -1,23 +1,23 @@
-import type { Metadata } from "next";
-import "./globals.css";
+import { ReactNode } from 'react';
+import './globals.css';
 
-export const metadata: Metadata = {
-  title: "Kenneth Paredes",
-  description: "Kenneth Paredes personal website",
+export const metadata = {
+  title: 'Kenneth Paredes',
+  description: 'Kenneth Paredes personal website',
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+type Props = {
+  children: ReactNode;
+  params: { locale: string };
+};
+
+export default function RootLayout({ children, params }: Props) {
+  const dir = params.locale === 'ar' ? 'rtl' : 'ltr';
   return (
-    <html lang="en">
-        <body
-          className={`antialiased`}
-        >
-          {children}
-        </body>
+    <html lang={params.locale} dir={dir}>
+      <body className="antialiased">
+        {children}
+      </body>
     </html>
   );
 }
