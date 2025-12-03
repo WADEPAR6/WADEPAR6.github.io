@@ -20,8 +20,22 @@ export default function MemoryGame({ dictionary }: { dictionary: Dictionary }) {
 
   // Inicializar el juego
   useEffect(() => {
-    initializeGame();
-  }, [dictionary]);
+    const phrases = dictionary.memoryGamePhrases || [];
+    
+    // Crear pares de cartas
+    const cardPairs = phrases.flatMap((phrase, index) => [
+      { id: index * 2, phrase, isFlipped: false, isMatched: false },
+      { id: index * 2 + 1, phrase, isFlipped: false, isMatched: false }
+    ]);
+
+    // Mezclar las cartas
+    const shuffled = cardPairs.sort(() => Math.random() - 0.5);
+    setCards(shuffled);
+    setFlippedCards([]);
+    setMoves(0);
+    setIsWon(false);
+    setIsChecking(false);
+  }, [dictionary.memoryGamePhrases]);
 
   const initializeGame = () => {
     const phrases = dictionary.memoryGamePhrases || [];
@@ -170,7 +184,7 @@ export default function MemoryGame({ dictionary }: { dictionary: Dictionary }) {
                 }}
               >
                 <p className="text-white text-xs text-center font-medium leading-snug italic">
-                  "{card.phrase}"
+                  &ldquo;{card.phrase}&rdquo;
                 </p>
               </div>
             </div>

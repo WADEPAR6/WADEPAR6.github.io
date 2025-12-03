@@ -1,7 +1,6 @@
 import React from 'react';
 import Skills from '../components/Skills';
 import Languages from '../components/Languages';
-import SocialNetworks from '../components/SocialNetworks';
 import MemoryGame from '../components/MemoryGame';
 import { Dictionary } from '../app/types/Dictionary';
 

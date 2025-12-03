@@ -4,9 +4,6 @@ import React, { useState } from "react";
 import { Dictionary } from "../app/types/Dictionary";
 import {
   Mail,
-  Phone,
-  MapPin,
-  Linkedin,
   Send,
   Loader2,
   CheckCircle2,
