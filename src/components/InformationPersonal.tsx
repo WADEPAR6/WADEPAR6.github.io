@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import foto from '@/app/fonts/images/FotoPerfil.jpg';
+import foto from '@/app/fonts/images/FotoPerfil.jpeg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faUser, faPhone, faCalendar, faAddressBook } from '@fortawesome/free-solid-svg-icons';
 import { Dictionary } from '../app/types/Dictionary';

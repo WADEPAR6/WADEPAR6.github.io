@@ -102,7 +102,7 @@
       "key": 2,
       "position": "Desarrollador Full Stack - \"PrescriberApp\"(From PICOFON)",
       "company": "GRECIL (Grupo de Investigación en Cognición y Lenguaje)",
-      "period": "2024 - 2025",
+      "period": "2025 - 2025",
       "description": "Desarollo de un Aplicativo Web para el control de terapias, pacientes, y seguimiento clínico. Implementación de funcionalidades para la gestión de usuarios, roles, y reportes estadísticos utilizando tecnologías modernas de desarrollo web."
     },
     {
@@ -116,15 +116,15 @@
       "key": 4,
       "position": "Desarrollador Junior",
       "company": "Aplicación para gestión de restaurante",
-      "period": "2022 - 2023",
+      "period": "2021 - 2023",
       "description": "Desarrollo de app multiplataforma con Flutter y Firebase para mejorar el flujo de pedidos entre salón y cocina. Participación en funciones clave de interfaz y comunicación en tiempo real."
     },
     {
       "key": 5,
-      "position": "Líder del área visual e interactiva",
+      "position": "Líder de Desarrollo",
       "company": "Sistema GITT – Universidad Técnica de Ambato",
-      "period": "2025 - 2026",
-      "description": "Encabezo el diseño y funcionamiento de la parte visual de una solución digital para gestión de inventarios y préstamos académicos. Coordinación de equipo, diseño funcional y experiencia de usuario."
+      "period": "2024 - 2025",
+      "description" : "Lideré un equipo de programadores en el diseño, desarrollo y despliegue de una aplicación web para la gestión de inventarios y préstamos del Taller Tecnológico"
     },
     {
       "key": 6,
