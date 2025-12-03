@@ -1,7 +1,7 @@
 {
   "general": {
     "title": "General Information",
-    "description": "I am a software developer in training with hands-on experience in web and mobile application development. I specialize in programming, computational logic, and personalized teaching. I am passionate about technology and enjoy sharing knowledge with students of all levels, from high school to university. I am seeking opportunities to work as a technology, computer science, or programming teacher, contributing my real-world project experience and vocation as an educator.",
+    "description": "Software developer focused on creating robust and scalable digital solutions. My priority is programming, system architecture, and code quality. I complement my technical profile with a solid capacity for teaching and communication, which allows me not only to develop efficient software but also to facilitate knowledge transfer and mentoring within development teams. I seek technical challenges where I can apply my Full Stack experience to build high-impact products.",
     "skills": {
       "nameSkill": "Technical and Soft Skills",
       "description": "Main technical and personal skills acquired through my training and experience.",
@@ -35,10 +35,7 @@
       "institution": "Technical University of Ambato",
       "period": "2021 - 2025",
       "details": [
-        "Training in the development of modern applications and systems tailored to real user and organizational needs.",
-        "Collaborative teamwork with a focus on agile methodologies and best development practices.",
-        "Active participation in academic projects focused on solving problems through creative digital solutions.",
-        "Development of critical thinking and analytical skills for decision-making in technological environments."
+        "Comprehensive training in software development focused on agile methodologies, modern system architecture, and creative problem-solving through digital solutions that positively impact users and organizations."
       ]
     },
     {
@@ -52,6 +49,27 @@
   ],
   "certificationsTitle": "Certifications",
   "certificationsItems": [
+    {
+      "name": "Professional Ethical Hacker",
+      "institution": "SEGURIDAD CERO",
+      "period": "2023",
+      "description": "Certificate of completion of the Professional Ethical Hacking course",
+      "file": "/docs/certificates/SeguridadCero.pdf"
+    },
+    {
+      "name": "HatunSoft",
+      "institution": "Faculty of Systems, Electronics and Industrial Engineering",
+      "period": "2023",
+      "description": "Certificate of Participation in the 1st Programming Competition",
+      "file": "/docs/certificates/HatunSoft.pdf"
+    },
+    {
+      "name": "Conference on Computer Science, Electronics and Industrial Engineering",
+      "institution": "Technical University of Ambato",
+      "period": "2023",
+      "description": "Course Completion Certificate for approval and attendance of the course \"Emerging Research Frontiers in Computer Science, Electronics and Industrial Engineering\"",
+      "file": "/docs/certificates/CCSEIE.pdf"
+    },
     {
       "name": "Ecuadorian Sign Language",
       "institution": "PSICORP - Ecuadorian Corporation of Psychology",
@@ -82,31 +100,45 @@
     },
     {
       "key": 2,
-      "position": "Junior Developer",
-      "company": "Restaurant Management App",
-      "period": "2022 - 2023",
-      "description": "Development of a cross-platform app with Flutter and Firebase to improve order flow between dining room and kitchen. Participation in key interface and real-time communication features."
+      "position": "Full Stack Developer - \"PrescriberApp\" (From PICOFON)",
+      "company": "GRECIL (Cognition and Language Research Group)",
+      "period": "2025",
+      "description": "Development of a Web Application for therapy control, patient management, and clinical follow-up. Implementation of functionalities for user management, roles, and statistical reports using modern web development technologies."
     },
     {
       "key": 3,
-      "position": "Lead Developer",
+      "position": "Web Developer",
+      "company": "Casa de la Cultura Tungurahua",
+      "period": "2024 - 2025",
+      "description": "Development of an institutional website for Casa de la Cultura Tungurahua, implementing a custom content management system (CMS) to facilitate site updates and administration by non-technical staff."
+    },
+    {
+      "key": 4,
+      "position": "Junior Developer",
+      "company": "Restaurant Management App",
+      "period": "2021 - 2023",
+      "description": "Development of a cross-platform app with Flutter and Firebase to improve order flow between dining room and kitchen. Participation in key interface and real-time communication features."
+    },
+    {
+      "key": 5,
+      "position": "Development Leader",
+      "company": "GITT System – Technical University of Ambato",
+      "period": "2024 - 2025",
+      "description": "Led a team of programmers in the design, development, and deployment of a web application for inventory management and loans at the Technology Workshop."
+    },
+    {
+      "key": 6,
+      "position": "Full Stack Developer",
       "company": "Tourism Booking Platform",
       "period": "2023 - 2024",
       "description": "Led the development of a web system to view tourist destinations and connect with advisors via WhatsApp API. Implementation of purchase flow and direct contact."
     },
     {
-      "key": 4,
-      "position": "Project Manager",
+      "key": 7,
+      "position": "Project Manager - PM",
       "company": "Humanitarian Social Network",
       "period": "2024 - 2025",
       "description": "Team coordination and functional design of an app to share information about missing persons and community support."
-    },
-    {
-      "key": 5,
-      "position": "Visual and Interactive Area Leader",
-      "company": "GITT System – Technical University of Ambato",
-      "period": "2025 - Present",
-      "description": "Lead the design and operation of the visual part of a digital solution for academic inventory and loan management. Team coordination, functional design, and user experience."
     }
   ],
   "workExperienceNull": "No work experience",
@@ -117,13 +149,26 @@
     { "key": 2, "name": "GitHub", "url": "https://github.com/WADEPAR6", "icon": "github" }
   ],
   "aboutMe": "About Me",
-  "personalNumber": "0963307063",
+  "personalNumber": "+593 963 307 063",
   "institutionalEmail": "kparedes9203@uta.edu.ec",
   "personalEmail": "raulparedes20031221@gmail.com",
   "download": "Download PDF",
   "portafolio": "Portfolio",
   "contacts": "Contacts",
   "contactsDescription": "Main contact information: city, phone, email, and LinkedIn for professional or academic inquiries.",
+  "contactFormTitle": "Send me a message",
+  "contactFormName": "Full name",
+  "contactFormNamePlaceholder": "Your name",
+  "contactFormEmail": "Email",
+  "contactFormEmailPlaceholder": "your@email.com",
+  "contactFormSubject": "Subject",
+  "contactFormSubjectPlaceholder": "What would you like to talk about?",
+  "contactFormMessage": "Message",
+  "contactFormMessagePlaceholder": "Write your message here...",
+  "contactFormSubmit": "Send message",
+  "contactFormSending": "Sending...",
+  "contactFormSuccess": "Message sent successfully! I'll reply soon.",
+  "contactFormError": "Error sending message. Please try again.",
   "address": "Ambato, Ecuador",
   "birthdate": "21/12/2003",
   "fullName": "Kenneth Paredes",
@@ -133,6 +178,19 @@
   "emailLabel": "Email",
   "phoneLabel": "Phone Number",
   "birthdateLabel": "Birthdate",
-  "addressLabel": "Address"
+  "addressLabel": "Address",
+  "memoryGameTitle": "My Teachings For You",
+  "memoryGameDescription": "Reflect on these lessons that life has taught me",
+  "memoryGameMoves": "Moves",
+  "memoryGameWin": "You've discovered all my shared wisdom",
+  "memoryGameReset": "Reset",
+  "memoryGamePhrases": [
+    "We live twice: first ignoring that everything ends, second knowing each moment is unrepeatable",
+    "Silence is where important questions find their most honest answers",
+    "It's not storms that reveal who you are, but how you tend your garden when no one's watching",
+    "True mastery isn't in conquering the world, but understanding you never will",
+    "There's profound freedom in accepting that some chapters will never have closure",
+    "Time heals nothing; it only teaches us to carry wounds with more dignity"
+  ]
 }
   

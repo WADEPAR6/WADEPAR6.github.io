@@ -86,6 +86,19 @@ export interface Dictionary {
   repository?: string;
   contacts?: string;
   contactsDescription?: string;
+  contactFormTitle?: string;
+  contactFormName?: string;
+  contactFormNamePlaceholder?: string;
+  contactFormEmail?: string;
+  contactFormEmailPlaceholder?: string;
+  contactFormSubject?: string;
+  contactFormSubjectPlaceholder?: string;
+  contactFormMessage?: string;
+  contactFormMessagePlaceholder?: string;
+  contactFormSubmit?: string;
+  contactFormSending?: string;
+  contactFormSuccess?: string;
+  contactFormError?: string;
   frameworks?: string;
   tools?: string;
   databases?: string;
@@ -107,4 +120,10 @@ export interface Dictionary {
   birthdateLabel?: string;
   addressLabel?: string;
   viewCertificate?: string;
+  memoryGameTitle?: string;
+  memoryGameDescription?: string;
+  memoryGameMoves?: string;
+  memoryGameWin?: string;
+  memoryGameReset?: string;
+  memoryGamePhrases?: string[];
 } 

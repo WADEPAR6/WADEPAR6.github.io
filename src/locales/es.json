@@ -1,7 +1,7 @@
 {
   "general": {
     "title": "Información General",
-    "description": "Soy un desarrollador de software en formación con experiencia práctica en el desarrollo de aplicaciones web y móviles. Me especializo en programación, lógica computacional y enseñanza personalizada. Me apasiona la tecnología y disfruto compartir el conocimiento con estudiantes de todos los niveles, desde secundaria hasta universidad. Busco oportunidades para desempeñarme como docente de tecnología, informática o programación, aportando mi experiencia en proyectos reales y mi vocación como educador.",
+    "description": "Desarrollador de software enfocado en la creación de soluciones digitales robustas y escalables. Mi prioridad es la programación, la arquitectura de sistemas y la calidad del código. Complemento mi perfil técnico con una sólida capacidad para la enseñanza y la comunicación, lo que me permite no solo desarrollar software eficiente, sino también facilitar la transferencia de conocimiento y el mentoring dentro de equipos de desarrollo. Busco desafíos técnicos donde pueda aplicar mi experiencia Full Stack para construir productos de alto impacto.",
     "skills": {
       "nameSkill": "Habilidades Técnicas y Blandas",
       "description": "Principales habilidades técnicas y personales adquiridas en mi formación y experiencia.",
@@ -35,10 +35,7 @@
       "institution": "Universidad Técnica de Ambato",
       "period": "2021 - 2025",
       "details": [
-        "Formación en desarrollo de aplicaciones y sistemas modernos adaptados a las necesidades reales de usuarios y organizaciones.",
-        "Trabajo colaborativo en equipos con enfoque en metodologías ágiles y buenas prácticas de desarrollo.",
-        "Participación activa en proyectos académicos enfocados en resolver problemas mediante soluciones digitales creativas.",
-        "Desarrollo de pensamiento crítico y habilidades analíticas para la toma de decisiones en entornos tecnológicos."
+        "Formación integral en desarrollo de software con enfoque en metodologías ágiles, arquitectura de sistemas modernos y resolución creativa de problemas mediante soluciones digitales que impactan positivamente a usuarios y organizaciones."
       ]
     },
     {
@@ -52,6 +49,27 @@
   ],
   "certificationsTitle": "Certificados",
   "certificationsItems": [
+    {
+      "name" : "Hacker Ético Profesional",
+      "institution" : "SEGURIDAD CERO",
+      "period" : "2023",
+      "description" : "Certificado de finalización del curso sobre Hacking Ético Profesional",
+      "file" : "/docs/certificates/SeguridadCero.pdf"
+    },
+    {
+      "name" : "HatunSoft",
+      "institution" : "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "period" : "2023",
+      "description" : "Certificado de Participación del 1er Concurso de Programación",
+      "file" : "/docs/certificates/HatunSoft.pdf"
+    },
+    {
+      "name" : "Conferencia en Ingeniería Ciencia Computacional, Electronica e Industrial",
+      "institution" : "Universidad Técnica de Ambato",
+      "period" : "2023",
+      "description" : "Certificado de Curso Completado sobre aprobación y asistencia al curso \"Fronteras de Investigación Emergentes en Ciencias de la Computación, Electrónica e Ingeniería Industrial\"",
+      "file" : "/docs/certificates/CCSEIE.pdf"
+    },
     {
       "name": "Lengua de Señas Ecuatoriana",
       "institution": "PSICORP - Corporación Ecuatoriana de Psicología",
@@ -82,31 +100,45 @@
     },
     {
       "key": 2,
-      "position": "Desarrollador Junior",
-      "company": "Aplicación para gestión de restaurante",
-      "period": "2022 - 2023",
-      "description": "Desarrollo de app multiplataforma con Flutter y Firebase para mejorar el flujo de pedidos entre salón y cocina. Participación en funciones clave de interfaz y comunicación en tiempo real."
+      "position": "Desarrollador Full Stack - \"PrescriberApp\"(From PICOFON)",
+      "company": "GRECIL (Grupo de Investigación en Cognición y Lenguaje)",
+      "period": "2025",
+      "description": "Desarollo de un Aplicativo Web para el control de terapias, pacientes, y seguimiento clínico. Implementación de funcionalidades para la gestión de usuarios, roles, y reportes estadísticos utilizando tecnologías modernas de desarrollo web."
     },
     {
       "key": 3,
-      "position": "Desarrollador Principal",
+      "position": "Desarrollador Web",
+      "company": "Casa de la Cultura Tungurahua",
+      "period": "2024 - 2025",
+      "description": "Desarrollo de un sitio web institucional para la Casa de la Cultura Tungurahua, implementando un sistema de gestión de contenidos (CMS) personalizado para facilitar la actualización y administración del sitio por parte del personal no técnico."
+    },
+    {
+      "key": 4,
+      "position": "Desarrollador Junior",
+      "company": "Aplicación para gestión de restaurante",
+      "period": "2021 - 2023",
+      "description": "Desarrollo de app multiplataforma con Flutter y Firebase para mejorar el flujo de pedidos entre salón y cocina. Participación en funciones clave de interfaz y comunicación en tiempo real."
+    },
+    {
+      "key": 5,
+      "position": "Líder de Desarrollo",
+      "company": "Sistema GITT – Universidad Técnica de Ambato",
+      "period": "2024 - 2025",
+      "description" : "Lideré un equipo de programadores en el diseño, desarrollo y despliegue de una aplicación web para la gestión de inventarios y préstamos del Taller Tecnológico"
+    },
+    {
+      "key": 6,
+      "position": "Desarrollador Full Stack",
       "company": "Plataforma turística de reservas",
       "period": "2023 - 2024",
       "description": "Lideré el desarrollo de un sistema web para visualizar destinos turísticos y conectar con asesores mediante WhatsApp API. Implementación de flujo de compra y contacto directo."
     },
     {
-      "key": 4,
-      "position": "Gestor de Proyecto",
+      "key": 7,
+      "position": "Gestor de Proyecto - PM",
       "company": "Red social con enfoque humanitario",
       "period": "2024 - 2025",
       "description": "Coordinación de equipo y diseño funcional de una app para compartir información de personas desaparecidas y apoyo comunitario."
-    },
-    {
-      "key": 5,
-      "position": "Líder del área visual e interactiva",
-      "company": "Sistema GITT – Universidad Técnica de Ambato",
-      "period": "2025 - Actualidad",
-      "description": "Encabezo el diseño y funcionamiento de la parte visual de una solución digital para gestión de inventarios y préstamos académicos. Coordinación de equipo, diseño funcional y experiencia de usuario."
     }
   ],
   "workExperienceNull": "No hay experiencia laboral",
@@ -117,13 +149,26 @@
     { "key": 2, "name": "GitHub", "url": "https://github.com/WADEPAR6", "icon": "github" }
   ],
   "aboutMe": "Sobre Mí",
-  "personalNumber": "0963307063",
+  "personalNumber": "+593 963 307 063",
   "institutionalEmail": "kparedes9203@uta.edu.ec",
   "personalEmail": "raulparedes20031221@gmail.com",
   "download": "Descargar PDF",
   "portafolio": "Portafolio",
   "contacts": "Contactos",
   "contactsDescription": "Información de contacto principal: ciudad, teléfono, correo y LinkedIn para consultas profesionales o académicas.",
+  "contactFormTitle": "Envíame un mensaje",
+  "contactFormName": "Nombre completo",
+  "contactFormNamePlaceholder": "Tu nombre",
+  "contactFormEmail": "Correo electrónico",
+  "contactFormEmailPlaceholder": "tu@email.com",
+  "contactFormSubject": "Asunto",
+  "contactFormSubjectPlaceholder": "¿Sobre qué quieres hablar?",
+  "contactFormMessage": "Mensaje",
+  "contactFormMessagePlaceholder": "Escribe tu mensaje aquí...",
+  "contactFormSubmit": "Enviar mensaje",
+  "contactFormSending": "Enviando...",
+  "contactFormSuccess": "¡Mensaje enviado correctamente! Te responderé pronto.",
+  "contactFormError": "Error al enviar el mensaje. Por favor, intenta nuevamente.",
   "address": "Ambato, Ecuador",
   "birthdate": "21/12/2003",
   "fullName": "Kenneth Paredes",
@@ -133,6 +178,19 @@
   "emailLabel": "Correo Electrónico",
   "phoneLabel": "Número de Teléfono",
   "birthdateLabel": "Fecha de Nacimiento",
-  "addressLabel": "Dirección"
+  "addressLabel": "Dirección",
+  "memoryGameTitle": "Mis Enseñanzas Para Ti",
+  "memoryGameDescription": "Reflexiona sobre estas lecciones que la vida me ha enseñado",
+  "memoryGameMoves": "Movimientos",
+  "memoryGameWin": "Has descubierto toda mi sabiduría compartida",
+  "memoryGameReset": "Reiniciar",
+  "memoryGamePhrases": [
+    "Vivimos dos veces: la primera ignorando que todo termina, la segunda sabiendo que cada instante es irrepetible",
+    "El silencio es donde las preguntas importantes encuentran sus respuestas más honestas",
+    "No son las tormentas las que revelan quién eres, sino cómo cultivas tu jardín cuando nadie mira",
+    "La verdadera maestría no está en dominar el mundo, sino en comprender que nunca lo harás",
+    "Hay una profunda libertad en aceptar que algunos capítulos jamás tendrán cierre",
+    "El tiempo no cura nada; solo nos enseña a cargar heridas con más dignidad"
+  ]
 }
   
