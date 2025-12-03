@@ -65,12 +65,7 @@ export default function Education({ dictionary }: { dictionary: Dictionary }) {
           </p>
 
           {/* Contenedor scrollable solo para certificados */}
-          <div
-            className="max-h-[400px] overflow-y-auto pr-2 flex flex-col gap-4
-            scrollbar-thin scrollbar-track-slate-800 scrollbar-thumb-purple-600 
-            hover:scrollbar-thumb-purple-500 scrollbar-thumb-rounded-full 
-            scrollbar-track-rounded-full"
-          >
+          <div className="max-h-[400px] overflow-y-auto pr-2 flex flex-col gap-4 scrollbar-custom">
             {certifications.map((cert, idx) => (
               <React.Fragment key={idx}>
                 <div className="bg-slate-800 rounded-xl p-5 flex flex-col gap-2 shadow-md">

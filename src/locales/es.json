@@ -50,6 +50,27 @@
   "certificationsTitle": "Certificados",
   "certificationsItems": [
     {
+      "name" : "Hacker Ético Profesional",
+      "institution" : "SEGURIDAD CERO",
+      "period" : "2023",
+      "description" : "Certificado de finalización del curso sobre Hacking Ético Profesional",
+      "file" : "/docs/certificates/SeguridadCero.pdf"
+    },
+    {
+      "name" : "HatunSoft",
+      "institution" : "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "period" : "2023",
+      "description" : "Certificado de Participación del 1er Concurso de Programación",
+      "file" : "/docs/certificates/HatunSoft.pdf"
+    },
+    {
+      "name" : "Conferencia en Ingeniería Ciencia Computacional, Electronica e Industrial",
+      "institution" : "Universidad Técnica de Ambato",
+      "period" : "2023",
+      "description" : "Certificado de Curso Completado sobre aprobación y asistencia al curso \"Fronteras de Investigación Emergentes en Ciencias de la Computación, Electrónica e Ingeniería Industrial\"",
+      "file" : "/docs/certificates/CCSEIE.pdf"
+    },
+    {
       "name": "Lengua de Señas Ecuatoriana",
       "institution": "PSICORP - Corporación Ecuatoriana de Psicología",
       "period": "2025",
@@ -79,31 +100,45 @@
     },
     {
       "key": 2,
+      "position": "Desarrollador Full Stack - \"PrescriberApp\"(From PICOFON)",
+      "company": "GRECIL (Grupo de Investigación en Cognición y Lenguaje)",
+      "period": "2024 - 2025",
+      "description": "Desarollo de un Aplicativo Web para el control de terapias, pacientes, y seguimiento clínico. Implementación de funcionalidades para la gestión de usuarios, roles, y reportes estadísticos utilizando tecnologías modernas de desarrollo web."
+    },
+    {
+      "key": 3,
+      "position": "Desarrollador Web",
+      "company": "Casa de la Cultura Tungurahua",
+      "period": "2024 - 2025",
+      "description": "Desarrollo de un sitio web institucional para la Casa de la Cultura Tungurahua, implementando un sistema de gestión de contenidos (CMS) personalizado para facilitar la actualización y administración del sitio por parte del personal no técnico."
+    },
+    {
+      "key": 4,
       "position": "Desarrollador Junior",
       "company": "Aplicación para gestión de restaurante",
       "period": "2022 - 2023",
       "description": "Desarrollo de app multiplataforma con Flutter y Firebase para mejorar el flujo de pedidos entre salón y cocina. Participación en funciones clave de interfaz y comunicación en tiempo real."
     },
     {
-      "key": 3,
-      "position": "Desarrollador Principal",
+      "key": 5,
+      "position": "Líder del área visual e interactiva",
+      "company": "Sistema GITT – Universidad Técnica de Ambato",
+      "period": "2025 - 2026",
+      "description": "Encabezo el diseño y funcionamiento de la parte visual de una solución digital para gestión de inventarios y préstamos académicos. Coordinación de equipo, diseño funcional y experiencia de usuario."
+    },
+    {
+      "key": 6,
+      "position": "Desarrollador Full Stack",
       "company": "Plataforma turística de reservas",
       "period": "2023 - 2024",
       "description": "Lideré el desarrollo de un sistema web para visualizar destinos turísticos y conectar con asesores mediante WhatsApp API. Implementación de flujo de compra y contacto directo."
     },
     {
-      "key": 4,
-      "position": "Gestor de Proyecto",
+      "key": 7,
+      "position": "Gestor de Proyecto - PM",
       "company": "Red social con enfoque humanitario",
       "period": "2024 - 2025",
       "description": "Coordinación de equipo y diseño funcional de una app para compartir información de personas desaparecidas y apoyo comunitario."
-    },
-    {
-      "key": 5,
-      "position": "Líder del área visual e interactiva",
-      "company": "Sistema GITT – Universidad Técnica de Ambato",
-      "period": "2025 - Actualidad",
-      "description": "Encabezo el diseño y funcionamiento de la parte visual de una solución digital para gestión de inventarios y préstamos académicos. Coordinación de equipo, diseño funcional y experiencia de usuario."
     }
   ],
   "workExperienceNull": "No hay experiencia laboral",

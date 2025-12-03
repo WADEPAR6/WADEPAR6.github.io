@@ -50,6 +50,27 @@
   "certificationsTitle": "Certifications",
   "certificationsItems": [
     {
+      "name": "Professional Ethical Hacker",
+      "institution": "SEGURIDAD CERO",
+      "period": "2023",
+      "description": "Certificate of completion of the Professional Ethical Hacking course",
+      "file": "/docs/certificates/SeguridadCero.pdf"
+    },
+    {
+      "name": "HatunSoft",
+      "institution": "Faculty of Systems, Electronics and Industrial Engineering",
+      "period": "2023",
+      "description": "Certificate of Participation in the 1st Programming Competition",
+      "file": "/docs/certificates/HatunSoft.pdf"
+    },
+    {
+      "name": "Conference on Computer Science, Electronics and Industrial Engineering",
+      "institution": "Technical University of Ambato",
+      "period": "2023",
+      "description": "Course Completion Certificate for approval and attendance of the course \"Emerging Research Frontiers in Computer Science, Electronics and Industrial Engineering\"",
+      "file": "/docs/certificates/CCSEIE.pdf"
+    },
+    {
       "name": "Ecuadorian Sign Language",
       "institution": "PSICORP - Ecuadorian Corporation of Psychology",
       "period": "2025",
@@ -79,31 +100,45 @@
     },
     {
       "key": 2,
+      "position": "Full Stack Developer - \"PrescriberApp\" (From PICOFON)",
+      "company": "GRECIL (Cognition and Language Research Group)",
+      "period": "2024 - 2025",
+      "description": "Development of a Web Application for therapy control, patient management, and clinical follow-up. Implementation of functionalities for user management, roles, and statistical reports using modern web development technologies."
+    },
+    {
+      "key": 3,
+      "position": "Web Developer",
+      "company": "Casa de la Cultura Tungurahua",
+      "period": "2024 - 2025",
+      "description": "Development of an institutional website for Casa de la Cultura Tungurahua, implementing a custom content management system (CMS) to facilitate site updates and administration by non-technical staff."
+    },
+    {
+      "key": 4,
       "position": "Junior Developer",
       "company": "Restaurant Management App",
       "period": "2022 - 2023",
       "description": "Development of a cross-platform app with Flutter and Firebase to improve order flow between dining room and kitchen. Participation in key interface and real-time communication features."
     },
     {
-      "key": 3,
-      "position": "Lead Developer",
+      "key": 5,
+      "position": "Visual and Interactive Area Leader",
+      "company": "GITT System – Technical University of Ambato",
+      "period": "2025 - 2026",
+      "description": "Lead the design and operation of the visual part of a digital solution for academic inventory and loan management. Team coordination, functional design, and user experience."
+    },
+    {
+      "key": 6,
+      "position": "Full Stack Developer",
       "company": "Tourism Booking Platform",
       "period": "2023 - 2024",
       "description": "Led the development of a web system to view tourist destinations and connect with advisors via WhatsApp API. Implementation of purchase flow and direct contact."
     },
     {
-      "key": 4,
-      "position": "Project Manager",
+      "key": 7,
+      "position": "Project Manager - PM",
       "company": "Humanitarian Social Network",
       "period": "2024 - 2025",
       "description": "Team coordination and functional design of an app to share information about missing persons and community support."
-    },
-    {
-      "key": 5,
-      "position": "Visual and Interactive Area Leader",
-      "company": "GITT System – Technical University of Ambato",
-      "period": "2025 - Present",
-      "description": "Lead the design and operation of the visual part of a digital solution for academic inventory and loan management. Team coordination, functional design, and user experience."
     }
   ],
   "workExperienceNull": "No work experience",
