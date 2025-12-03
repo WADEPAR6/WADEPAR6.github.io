@@ -7,7 +7,7 @@ import { Dictionary } from '../app/types/Dictionary';
 
 export default function InformationPersonal({ dictionary }: { dictionary: Dictionary }) {
     return (
-        <div id='personalInformation' className='w-full bg-neutral-800 rounded-xl p-6 flex flex-col items-center shadow-lg'>
+        <div id='personalInformation' className='w-full bg-neutral-800 rounded-xl p-6 flex flex-col items-center shadow-lg sticky top-12'>
             {/* IMAGEN Y NOMBRE */}
             <div className='flex flex-col justify-center items-center'>
                 <Image src={foto} alt="" className='rounded-md w-4/6' width={200} height={200} />
@@ -35,16 +35,6 @@ export default function InformationPersonal({ dictionary }: { dictionary: Dictio
                         <h1>{dictionary.nameLabel}</h1>
                         <h1>{dictionary.firstName}</h1>
                         <h1>{dictionary.lastName}</h1>
-                    </div>
-                </div>
-                {/* Email Data */}
-                <div id="data" className="flex mx-5 items-center my-2">
-                    <div className='rounded-xl bg-neutral-700 p-2'>
-                        <FontAwesomeIcon icon={faEnvelope} className="w-6 h-6 text-purple-500" />
-                    </div>
-                    <div className="ml-4 text-xs w-3/4">
-                        <h1>{dictionary.emailLabel}</h1>
-                        <h1>{dictionary.personalEmail}</h1>
                     </div>
                 </div>
                 {/* Personal Number Data */}
