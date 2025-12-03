@@ -120,4 +120,10 @@ export interface Dictionary {
   birthdateLabel?: string;
   addressLabel?: string;
   viewCertificate?: string;
+  memoryGameTitle?: string;
+  memoryGameDescription?: string;
+  memoryGameMoves?: string;
+  memoryGameWin?: string;
+  memoryGameReset?: string;
+  memoryGamePhrases?: string[];
 } 

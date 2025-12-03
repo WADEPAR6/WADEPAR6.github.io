@@ -1,7 +1,7 @@
 {
   "general": {
     "title": "General Information",
-    "description": "I am a software developer in training with hands-on experience in web and mobile application development. I specialize in programming, computational logic, and personalized teaching. I am passionate about technology and enjoy sharing knowledge with students of all levels, from high school to university. I am seeking opportunities to work as a technology, computer science, or programming teacher, contributing my real-world project experience and vocation as an educator.",
+    "description": "Software developer focused on creating robust and scalable digital solutions. My priority is programming, system architecture, and code quality. I complement my technical profile with a solid capacity for teaching and communication, which allows me not only to develop efficient software but also to facilitate knowledge transfer and mentoring within development teams. I seek technical challenges where I can apply my Full Stack experience to build high-impact products.",
     "skills": {
       "nameSkill": "Technical and Soft Skills",
       "description": "Main technical and personal skills acquired through my training and experience.",
@@ -102,7 +102,7 @@
       "key": 2,
       "position": "Full Stack Developer - \"PrescriberApp\" (From PICOFON)",
       "company": "GRECIL (Cognition and Language Research Group)",
-      "period": "2025 - 2025",
+      "period": "2025",
       "description": "Development of a Web Application for therapy control, patient management, and clinical follow-up. Implementation of functionalities for user management, roles, and statistical reports using modern web development technologies."
     },
     {
@@ -178,6 +178,19 @@
   "emailLabel": "Email",
   "phoneLabel": "Phone Number",
   "birthdateLabel": "Birthdate",
-  "addressLabel": "Address"
+  "addressLabel": "Address",
+  "memoryGameTitle": "My Teachings For You",
+  "memoryGameDescription": "Reflect on these lessons that life has taught me",
+  "memoryGameMoves": "Moves",
+  "memoryGameWin": "You've discovered all my shared wisdom",
+  "memoryGameReset": "Reset",
+  "memoryGamePhrases": [
+    "We live twice: first ignoring that everything ends, second knowing each moment is unrepeatable",
+    "Silence is where important questions find their most honest answers",
+    "It's not storms that reveal who you are, but how you tend your garden when no one's watching",
+    "True mastery isn't in conquering the world, but understanding you never will",
+    "There's profound freedom in accepting that some chapters will never have closure",
+    "Time heals nothing; it only teaches us to carry wounds with more dignity"
+  ]
 }
   

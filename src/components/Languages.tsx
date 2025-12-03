@@ -28,7 +28,7 @@ export default function Languages({ dictionary }: { dictionary: Dictionary }) {
                         <div className='flex-1 flex flex-col gap-2'>
                             <div className='w-full bg-gray-200 rounded-full h-3 relative'>
                                 <div
-                                    className='bg-blue-600 h-3 rounded-full transition-all duration-300'
+                                    className='bg-purple-700 h-3 rounded-full transition-all duration-300'
                                     style={{ width: `${language.percentage}%` }}
                                 ></div>
                                 <span className='absolute right-2 top-1/2 -translate-y-1/2 text-xs font-mono text-blue-900 font-bold'>{language.percentage}%</span>

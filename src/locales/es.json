@@ -1,7 +1,7 @@
 {
   "general": {
     "title": "Información General",
-    "description": "Soy un desarrollador de software en formación con experiencia práctica en el desarrollo de aplicaciones web y móviles. Me especializo en programación, lógica computacional y enseñanza personalizada. Me apasiona la tecnología y disfruto compartir el conocimiento con estudiantes de todos los niveles, desde secundaria hasta universidad. Busco oportunidades para desempeñarme como docente de tecnología, informática o programación, aportando mi experiencia en proyectos reales y mi vocación como educador.",
+    "description": "Desarrollador de software enfocado en la creación de soluciones digitales robustas y escalables. Mi prioridad es la programación, la arquitectura de sistemas y la calidad del código. Complemento mi perfil técnico con una sólida capacidad para la enseñanza y la comunicación, lo que me permite no solo desarrollar software eficiente, sino también facilitar la transferencia de conocimiento y el mentoring dentro de equipos de desarrollo. Busco desafíos técnicos donde pueda aplicar mi experiencia Full Stack para construir productos de alto impacto.",
     "skills": {
       "nameSkill": "Habilidades Técnicas y Blandas",
       "description": "Principales habilidades técnicas y personales adquiridas en mi formación y experiencia.",
@@ -102,7 +102,7 @@
       "key": 2,
       "position": "Desarrollador Full Stack - \"PrescriberApp\"(From PICOFON)",
       "company": "GRECIL (Grupo de Investigación en Cognición y Lenguaje)",
-      "period": "2025 - 2025",
+      "period": "2025",
       "description": "Desarollo de un Aplicativo Web para el control de terapias, pacientes, y seguimiento clínico. Implementación de funcionalidades para la gestión de usuarios, roles, y reportes estadísticos utilizando tecnologías modernas de desarrollo web."
     },
     {
@@ -178,6 +178,19 @@
   "emailLabel": "Correo Electrónico",
   "phoneLabel": "Número de Teléfono",
   "birthdateLabel": "Fecha de Nacimiento",
-  "addressLabel": "Dirección"
+  "addressLabel": "Dirección",
+  "memoryGameTitle": "Mis Enseñanzas Para Ti",
+  "memoryGameDescription": "Reflexiona sobre estas lecciones que la vida me ha enseñado",
+  "memoryGameMoves": "Movimientos",
+  "memoryGameWin": "Has descubierto toda mi sabiduría compartida",
+  "memoryGameReset": "Reiniciar",
+  "memoryGamePhrases": [
+    "Vivimos dos veces: la primera ignorando que todo termina, la segunda sabiendo que cada instante es irrepetible",
+    "El silencio es donde las preguntas importantes encuentran sus respuestas más honestas",
+    "No son las tormentas las que revelan quién eres, sino cómo cultivas tu jardín cuando nadie mira",
+    "La verdadera maestría no está en dominar el mundo, sino en comprender que nunca lo harás",
+    "Hay una profunda libertad en aceptar que algunos capítulos jamás tendrán cierre",
+    "El tiempo no cura nada; solo nos enseña a cargar heridas con más dignidad"
+  ]
 }
   
